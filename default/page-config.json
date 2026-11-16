@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "curso-produccion-audiovisual.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Producción audiovisual, edición y animación | Lynx Pardelle",
+    "description": "Desarrolla videoblogs, cortometrajes, videoclips y piezas animadas. Recorre el proceso desde el guion y el rodaje hasta la edición y la composición visual.",
+    "canonical": "https://curso-produccion-audiovisual.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-curso-produccion-audiovisual.webp"
+    }
+  }
+}
