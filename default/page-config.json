@@ -7,12 +7,64 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Producción audiovisual, edición y animación | Lynx Pardelle",
-    "description": "Desarrolla videoblogs, cortometrajes, videoclips y piezas animadas. Recorre el proceso desde el guion y el rodaje hasta la edición y la composición visual.",
+    "title": "Curso de producción audiovisual con Premiere y After Effects | Lynx Pardelle",
+    "description": "Curso de 16 meses para desarrollar videoblogs, cortos, videoclips y animaciones. Trabaja guion, rodaje, montaje, efectos y rotoscopia.",
     "canonical": "https://curso-produccion-audiovisual.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/curso-produccion-audiovisual-r2-3a45eea7f3ac90c5.webp",
+      "title": "Curso de producción audiovisual con Premiere y After Effects | Lynx Pardelle",
+      "description": "Curso de 16 meses para desarrollar videoblogs, cortos, videoclips y animaciones. Trabaja guion, rodaje, montaje, efectos y rotoscopia.",
+      "url": "https://curso-produccion-audiovisual.music.lynxpardelle.com/",
+      "imageAlt": "Equipo de cámara, monitor y luces durante un rodaje independiente."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Curso de producción audiovisual con Premiere y After Effects | Lynx Pardelle",
+      "description": "Curso de 16 meses para desarrollar videoblogs, cortos, videoclips y animaciones. Trabaja guion, rodaje, montaje, efectos y rotoscopia.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/curso-produccion-audiovisual-r2-3a45eea7f3ac90c5.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://curso-produccion-audiovisual.music.lynxpardelle.com/#webpage",
+        "name": "Producción audiovisual, edición y animación",
+        "description": "Curso de 16 meses para desarrollar videoblogs, cortos, videoclips y animaciones. Trabaja guion, rodaje, montaje, efectos y rotoscopia.",
+        "url": "https://curso-produccion-audiovisual.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Cursos",
+          "url": "https://music.lynxpardelle.com/formacion/cursos"
+        },
+        "mainEntity": {
+          "@id": "https://curso-produccion-audiovisual.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://curso-produccion-audiovisual.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Producción audiovisual, edición y animación",
+        "description": "Curso de 16 meses para desarrollar videoblogs, cortos, videoclips y animaciones. Trabaja guion, rodaje, montaje, efectos y rotoscopia.",
+        "url": "https://curso-produccion-audiovisual.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/curso-produccion-audiovisual-r2-3a45eea7f3ac90c5.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "timeRequired": "P16M",
+        "offers": {
+          "@type": "Offer",
+          "name": "Pago único",
+          "url": "https://curso-produccion-audiovisual.music.lynxpardelle.com/#precios",
+          "price": 56000,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
